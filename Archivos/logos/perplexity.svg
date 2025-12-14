@@ -1,0 +1,9 @@
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Perplexity logo">
+  <style>
+    text { font-family: "Segoe UI", Arial, sans-serif; }
+  </style>
+  <g transform="translate(6 6)" stroke="#138EA3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 4v20m0-20L8 20m16-16 16 16m-16 0v20m0-20L8 40m16-16 16 16M4 24h20m-20 0 16-16m-16 16 16 16M28 24h20m-20 0 16-16m-16 16 16 16"/>
+  </g>
+  <text x="82" y="38" fill="currentColor" font-size="26" font-weight="700">perplexity</text>
+</svg>
