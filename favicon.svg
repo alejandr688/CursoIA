@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="IA favicon">
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#FFFFFF"/>
+  <path d="M17 14h10v36H17z" fill="#0C2148"/>
+  <circle cx="22" cy="26" r="3.2" fill="#FFFFFF"/>
+  <rect x="21" y="28.5" width="2" height="17.5" rx="1" fill="#FFFFFF"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M40 14L26 50h28L40 14Zm0 12.5L32.5 42H47.5L40 26.5Z" fill="#0C2148"/>
+</svg>
